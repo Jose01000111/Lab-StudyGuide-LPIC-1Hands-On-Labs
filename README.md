@@ -15,6 +15,6 @@ I was learning too slowly, spending most of my time passively listening to cours
 
   # 🧪Hands-on Labs for LPIC-1 Certification
 
-- 🔧 [Exam 101-500 Labs](https://github.com/Jose01000111/LPIC-1-101-lab-study-guide.git)
-- 🛠️ [Exam 102-500 Labs](https://github.com/Jose01000111/LPIC-1-102-lab-study-guide.git)
+- 📘 [Exam 101-500 Labs](https://github.com/Jose01000111/LPIC-1-101-lab-study-guide.git)
+- 📝 [Exam 102-500 Labs](https://github.com/Jose01000111/LPIC-1-102-lab-study-guide.git)
 
