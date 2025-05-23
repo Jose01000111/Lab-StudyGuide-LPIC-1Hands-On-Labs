@@ -6,23 +6,13 @@ I was learning too slowly, spending most of my time passively listening to cours
 
 ## 🧪 What’s in Each Lab
 
-Each lab focuses on a single LPIC-1 exam objective and includes:
-
-- **What You’re Learning**  
-  The exam objective and key knowledge areas.
-
-- **Lab Instructions**  
-  Step-by-step tasks to practice commands and concepts.
-
-- **Main Commands and Files**  
-  The important terms, files, and tools used in the lab.
-
-- **Extras That Might Show Up**  
-  Other useful commands or concepts related to the topic.
-
-- **Study Notes**  
-  A quick summary at the end of each lab to review what we worked on.
+- Lab instructions based on LPIC-1 exam objectives  
+- Key knowledge areas  
+- Partial list of used files, terms, and utilities
+- Study Notes
+  
 ***
+
   # 🧪Hands-on Labs for LPIC-1 Certification
 
 - 🔧 [Exam 101 Labs](https://github.com/Jose01000111/LPIC-1-101-lab-study-guide.git)
