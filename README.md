@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://i.imgur.com/nc2DPNZ.png" alt="osTicket logo"/>
 </p>
-https://imgur.com/nc2DPNZ
+
 ***
 
 ## 🎓 LPIC-1 Description
