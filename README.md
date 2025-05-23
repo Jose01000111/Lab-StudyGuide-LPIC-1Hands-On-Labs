@@ -22,10 +22,8 @@ Each lab focuses on a single LPIC-1 exam objective and includes:
 
 - **Study Notes**  
   A quick summary at the end of each lab to review what we worked on.
-
-  # 🧪 LabTested: LPIC-1 Prep
-
-**Hands-on Labs for LPIC-1 Certification**
+***
+  # 🧪Hands-on Labs for LPIC-1 Certification
 
 - 🔧 [Exam 101 Labs](#exam-101-labs)
 - 🛠️ [Exam 102 Labs](#exam-102-labs)
