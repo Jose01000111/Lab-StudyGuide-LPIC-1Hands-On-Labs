@@ -10,6 +10,30 @@
 ## 🎓 LPIC-1 Description
 #### LPIC-1 is split into two separate exams, and they cover a lot. The first one (101-500) hits you with package management, file systems, and the command line. The second one (102-500) gets into things like shell scripting, networking, users, security, and system maintenance.
 
+## My Recommended 🐧 Linux Practice Method 🚀
+
+### Step 1: Do the labs using only the instructions
+
+  - Pay close attention to the steps and details.
+
+### Step 2: Do the labs again using the iHelp notes
+
+  - Use your notes to reinforce understanding and fill in gaps.
+
+### Step 3: Try different Linux distros
+
+  - Download various distros and experiment.
+
+  - Break things if needed — it’s part of learning.
+
+### Step 4: Recall tasks using only the official LPI exam topics
+
+  - Challenge yourself to perform tasks using just the exam objectives.
+
+### Step 5: Repeat steps 1–4
+
+  - Each round builds confidence, memory, and real-world skill. 
+
 ***
 ## 🧪 What’s in Each Lab
 
